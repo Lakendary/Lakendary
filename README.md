@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm an ICT Executive, **Software Developer**, and 
 - **Development Methodologies:** Application Factory Pattern, REST API design  
 
 ---
+<!--
 
 ## 🌟 **Featured Projects**
 Here are some highlights of what I’ve worked on recently:  
@@ -66,7 +67,7 @@ This README reflects my journey in technology, balancing a full-time role, famil
 
 Feel free to explore my repositories and get in touch!
 
-<!--
+
 **Lakendary/Lakendary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
